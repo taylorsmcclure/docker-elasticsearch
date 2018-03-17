@@ -1,4 +1,4 @@
-FROM taylorsmcclure/docker-jre:8u151_cpufix
+FROM taylorsmcclure/docker-jre:8u151
 MAINTAINER pjpires@gmail.com
 
 # Export HTTP & Transport
