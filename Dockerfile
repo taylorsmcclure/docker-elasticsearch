@@ -1,4 +1,4 @@
-FROM quay.io/taylorsmcclure/docker-jre:8u151_cpufix
+FROM taylorsmcclure/docker-jre:8u151_cpufix
 MAINTAINER pjpires@gmail.com
 
 # Export HTTP & Transport
